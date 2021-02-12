@@ -1,0 +1,18 @@
+name: flutter_qr_code_scanner_web
+description: A qr code scanner for Web/PWA
+version: 0.0.1
+author: Adriano Moreira da Silva
+homepage: https://github.com/adriano-moreira/flutter_qr_code_scanner_web
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
